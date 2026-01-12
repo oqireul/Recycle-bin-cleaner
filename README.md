@@ -1,2 +1,2 @@
-# Recycle-bin-cleaner
-Some recycle bin cleaners for any windows version ranging from windows 95 - windows 11
+# Recycle Bin Cleaner
+This is a recycle bin cleaner for windows 95 - windows 11. If your windows version has a start menu or a start screen, this tiny batch file will work for that version. The one labelled DOS cleaner is for Windows 95, 98, and windows ME. The one labelled W2K-Server03 is for Windows 2000, Windows XP, and Windows Server 2003. The one labeled WinVista-8.1 is for Vista, 7, 8, and 8.1, and this one also works on windows 10 and 11 but I used PowerShell for Win10-11.
